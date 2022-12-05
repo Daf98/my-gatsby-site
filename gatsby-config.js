@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    title: "Daf's website"
   },
   plugins: [
     "gatsby-plugin-image",
